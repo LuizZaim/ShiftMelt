@@ -1,0 +1,7 @@
+dist/
+build/
+downloads/
+__pycache__/
+*.exe
+*.zip
+.venv/
